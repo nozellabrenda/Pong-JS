@@ -1,6 +1,6 @@
-#### :space_invader: Games in JavaScript <h4>
+## :space_invader: Game in JavaScript <h3>
 
-##### Pong <h5>
+### Pong <h3>
 
 Made on: https://editor.p5js.org/
 
