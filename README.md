@@ -1,8 +1,6 @@
-### Firts Projects <h3>
-
 #### :space_invader: Games in JavaScript <h4>
 
-##### 1º Pong <h5>
+##### Pong <h5>
 
 Made on: https://editor.p5js.org/
 
