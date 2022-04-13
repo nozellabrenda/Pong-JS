@@ -1,10 +1,14 @@
-## :space_invader: Game in JavaScript <h3>
+## :space_invader: Pong in JavaScript
 
-### Pong <h3>
+### :hammer: Built on:
 
-Made on: https://editor.p5js.org/
+https://editor.p5js.org/
   
-## 📁 Acesso ao projeto
+### :video_game: How to play:
+
+Keyboard arrows, up and down.
+
+### 📁 Project access
 
 You can play here: https://editor.p5js.org/nozellabrenda/full/KDdvrmNWe
   <p> PC Only*</p>
